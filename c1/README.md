@@ -23,16 +23,18 @@ making amends with someone else.
 
 The input has the following format
 
+```
 N
 n1 n2 ...
 ...
 n1 n2 ...
--
+```
 
 N is the number of employees in the company. Each line after that represents
-one employee and each number in each line repesent the hated colleagues.
+one employee and each number within the line represents a colleague they hate.
 
-The output is the least number of people that have to make amends.
+The output is the least number of people that have to make amends, so the
+gossip order is reestablished.
 
 Example input:
 
@@ -41,11 +43,9 @@ Example input:
 1 2
 0
 0
--
 2
 1
 0
--
 ```
 
 Example output:
