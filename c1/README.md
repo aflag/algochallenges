@@ -8,7 +8,7 @@ However, when you finally forgave him, you found out there was a whole world of
 gossip completely hidden from you!
 
 Being a sysadmin, you had direct access to HR’s computers. So, determined to
-create a better work environment for everyone, you to downloaded the
+create a better work environment for everyone, you downloaded the
 spreadsheet they use to arrange team building exercises – the list of
 colleagues that hate each other. Seeing how massive that spreadsheet really is,
 it occurred to you that the reason you were not let in to some of the juiciest
@@ -54,6 +54,3 @@ Example output:
 2
 2
 ```
-
-In this case we need 0 and either 1 or 2 to make amends. So the number of
-people is 2. Same as when there are 2 people who hate each other.
