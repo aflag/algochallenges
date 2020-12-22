@@ -3,7 +3,7 @@ Office Gossip
 
 As any other healthy individual, you love gossip. However, you’ve recently
 realised that not all office gossip gets to you. You hadn’t been talking to
-Jeff since he shared embarrassing photos of you to everyone in the office.
+Ron since he shared embarrassing photos of you to everyone in the office.
 However, when you finally forgave him, you found out there was a whole world of
 gossip completely hidden from you!
 
@@ -13,8 +13,8 @@ spreadsheet they use to arrange team building exercises – the list of
 colleagues that hate each other. Seeing how massive that spreadsheet really is,
 it occurred to you that the reason you were not let in to some of the juiciest
 gossips was because of the “wall of hate”. People who hate each other, don’t
-tend to share gossip. That means that, if everyone in a group of people hated
-the guts of everyone in another group, that could cause gossip bubbles.
+tend to share gossip. Also, contrary to love, hate is always mutual. So, bubbles
+can easily form, making gossip forever locked inside one group.
 
 Before taking action, you need to plan. You know you will need to make people
 talk to each other again, but how many? So, you set yourself to write an
